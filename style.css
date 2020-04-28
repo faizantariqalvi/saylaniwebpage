@@ -1,0 +1,295 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 100%;
+}
+.container1{
+    width: 85%;
+    margin: 0 auto;
+}
+.top{
+    height: 48px;
+    background-color: #316DC3;
+}
+.logo{
+    float: left;
+    padding-top: 15px;
+    color: white; 
+}
+.logo span{
+    margin-left: 130px;
+}
+.form{
+    float: right;
+    padding-top: 10px;
+}
+.txt1{
+    color: #203506;
+    width: 70px;
+    height: 28px;
+    padding-left: 10px;
+    border: 1px solid green;
+}
+.txt2{
+    color: #203506;
+    text-align: center;
+    width: 75px;
+    height: 28px;
+    padding-left: 10px;
+    border: 1px solid green;
+}
+.txt3{
+    color: #203506;
+    width: 85px;
+    height: 28px;
+    padding-left: 10px;
+    border: 1px solid green;
+}
+.container2{
+    width: 87%;
+    margin: 0 auto;
+}
+.left{
+    float: left;
+    margin-top: 10px;
+}
+.right{
+    float: right;
+}
+header{
+    background-color: burlywood;
+}
+.nav ul{
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+.nav li{
+    display: inline-block;
+    margin-left: 18px;
+    font-size: 18px;
+    background-color: azure
+
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+}
+.active,.nav ul li:hover{
+    background-color: #316DC3;
+    border-radius: 3px;
+}
+.nav ul ul li{
+    display: block;
+}
+
+.img1 img{
+    margin-top: 20px;
+}
+.blue{
+    background-color: #316DC3;
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 80px;
+    height: 20px;
+    padding-top: 06px;
+}
+.blue span{
+    color: white;
+    padding: 10px 120px 10px 120px;
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+    color: #316DC3;
+}
+
+.design{
+    margin-left: 650px;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #716C69;
+    margin-top: 10px;
+}
+.num{
+    background-color: #2755E9;
+    height: 350px;
+}
+.num table{
+    margin-left: 90px;
+    margin-top: 30px;
+    padding-top: 90px;
+}
+.num1{
+    font-size: 60px;
+    color: white;
+    padding-right: 150px;
+}
+.num2{
+    margin-left: 60px;
+}
+.num3{
+    font-size: 20px;
+    color: white;
+}
+.num4{
+    font-size: 20px;
+    color: white; 
+}
+.num5{
+    padding-left: 60px;
+    font-size: 20px;
+    color: white;
+}
+.what h1{
+    text-align: center;
+    color: #427900;
+    font-size: 40px;
+}
+.design1{
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.online table{
+    margin-left: 170px;
+    padding-top: 30px;
+}
+.online1{
+    padding-right: 350px;
+}
+.online2{
+    font-size: 20px;
+    font-weight: bold;
+    color: #316DC8;
+}
+.online3{
+    padding-right: 350px;
+    padding-left: 35px;
+}
+.online tr td a{
+    text-decoration: none;
+}
+.education table{
+    margin-left: 170px;
+    padding-top: 30px;
+    margin-top: 70px;
+}
+.education1{
+    padding-right: 350px;
+}
+.education2{
+    font-size: 20px;
+    font-weight: bold;
+    color: #316DC8;
+}
+.education3{
+    padding-right: 350px;
+    padding-left: 35px;
+}
+.education tr td a{
+    text-decoration: none;
+}
+.container3{
+    width: 80%;
+    margin: 0 auto;
+}
+.mission{
+    float:  left;
+}
+.mission h2{
+    padding-top: 170px;
+    color: #316DC3;
+}
+.mission tr td{
+    padding-top: 70px;
+}
+.padd1{
+    padding-left: 20px;
+}
+.padd2{
+    padding-left: 30px;
+    color: #316DC8;
+    font-weight: bold;
+}
+.padd3,.padd4{
+    padding-left: 200px;
+}
+.events{
+    float: right;
+}
+.events h2{
+    padding-top: 170px;
+    color: #316DC8;
+    
+}
+.events p{
+    padding-top: 60px;
+    color: #666666;
+}
+.bbb{
+    margin-top: 600px;
+}
+.bbb img{
+    margin-left: 650px;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+.help{
+    margin-top: 20px;
+    margin-left: 95px;
+}
+.help tr td{
+
+    padding-left: 10px;
+}
+.help tr td img{
+    padding-left: 0px;
+}
+.color{
+    margin-top: 200px;
+    background-color: #25272E;
+    height: 500px;
+}
+.color tr th{
+    padding-top: 100px;
+    padding-left: 200px;
+    color: white;
+    font-size: 18px;
+}
+.color tr td{
+    padding-top: 05px;
+    padding-left: 90px;
+    color: #B7BB94;
+    font-size: 16px;
+}
+.bottom{
+    background-color: #316DD9;
+    height: 40px;
+}
+.bottom{
+    color: white;
+    padding-top: 14px;
+    padding-left: 100px;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
